@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-<p align="left">- 📫 How to reach me <a href="https://kadrzeybek.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kadrzeybek" height="30" width="40" /></a>
+<p align="left">- 📫 How to reach me <a href="https://kadrzeybek.com" target="blank">kadrzeybek.com</a>
 </p>
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1ve_tzQfhpvuUfk5Ea3UBEbfR_JyxlvaH/view?usp=sharing](https://drive.google.com/file/d/1ve_tzQfhpvuUfk5Ea3UBEbfR_JyxlvaH/view?usp=sharing)
