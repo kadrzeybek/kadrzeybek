@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 📫 How to reach me **kadrzeybek@gmail.com**
+- 📫 How to reach me **kadrzeybek.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1ve_tzQfhpvuUfk5Ea3UBEbfR_JyxlvaH/view?usp=sharing](https://drive.google.com/file/d/1ve_tzQfhpvuUfk5Ea3UBEbfR_JyxlvaH/view?usp=sharing)
 
