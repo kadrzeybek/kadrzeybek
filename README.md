@@ -7,7 +7,7 @@
 
 ## 📫 Contact Me  
 - 📧 Email: [kadir@example.com](mailto:kadir@example.com)  
-- 🌐 Website: [kadrzeybek.cok](https://kadrzeybek.com)  
+- 🌐 Website: [kadrzeybek.com](https://kadrzeybek.com)  
 - 💻 GitHub: [github.com/kadrzeybek](https://github.com/kadrzeybek)
 
 ## 📄 CV
