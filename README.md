@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Kadir 👋🏻</h1>
-<h3 align="center">A jr. developer from Turkey</h3>
+<h3 align="center">A jr. developer</h3>
 
 ## Skills 
 <img src="https://skillicons.dev/icons?i=javascript,python,electron,nodejs,django,html,css,react,vite,bootstrap,tailwindcss,mysql,postgresql,mongodb,firebase,docker,git" alt="skills logos" />
