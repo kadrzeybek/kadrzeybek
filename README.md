@@ -6,7 +6,7 @@
 <br>
 
 ## 📫 Contact Me  
-- 📧 Email: [kadir@example.com](mailto:kadir@example.com)  
+- 📧 Email: [kadrzeybek@gmail.com](mailto:kadrzeybek@gmail.com)  
 - 🌐 Website: [kadrzeybek.com](https://kadrzeybek.com)  
 - 💻 GitHub: [github.com/kadrzeybek](https://github.com/kadrzeybek)
 
