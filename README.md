@@ -13,7 +13,7 @@ in DevOps tools.</p>
 - 🌐 Website: [kadrzeybek.com](https://kadrzeybek.com)  
 
 ## 📄 CV
-[![CV-ENG](https://img.shields.io/badge/CV-EN-blue?style=for-the-badge&logo=adobeacrobatreader)](https://drive.google.com/file/d/1UljPySFpA9J7WYC7TbM_x2_YPc3kTD-j/view?usp=sharing)
+[![CV-ENG](https://img.shields.io/badge/CV-EN-blue?style=for-the-badge&logo=adobeacrobatreader)]([https://drive.google.com/file/d/1UljPySFpA9J7WYC7TbM_x2_YPc3kTD-j/view?usp=sharing](https://drive.google.com/file/d/1h1UxEfuX_0g3C0iLasVbSA0IOZ5cSqUl/view?usp=sharing))
 <br>
 
 
